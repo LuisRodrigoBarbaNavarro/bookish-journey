@@ -1,5 +1,3 @@
-Aquí tienes la guía de ejecución de Lexer en formato Markdown con algunos emojis bonitos:
-
 ## Guía de ejecución de Lexer en Eclipse Mars 2 👩‍💻🌟
 
 1. **Importar el archivo .zip al Eclipse Mars 2** 📥
