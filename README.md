@@ -1,4 +1,4 @@
-## Guía de ejecución de Lexer en Eclipse Mars 2 👩‍💻🌟
+## Guía de Ejecución de Lexer en Eclipse Mars 2 👩‍💻
 
 1. **Importar el archivo .zip al Eclipse Mars 2** 📥
 
