@@ -1,4 +1,4 @@
-# Parser Setup Instructions🔷
+# 🔷 Parser Setup Instructions
 ## You need to run View.java to display Parser
 To display the View.java window correctly, follow these steps in Eclipse:
 
