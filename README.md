@@ -1,1 +1,1 @@
-Lexical and syntactic analyzer 🌼
+# Lexical and syntactic analyzer
