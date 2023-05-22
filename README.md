@@ -2,8 +2,8 @@
 
 1. **Importar el archivo .zip al Eclipse Mars 2** 📥
 
-   - Abre el Eclipse Mars 2. 🌙
-   - Ve al menú **File** y selecciona **Import**. 📂
+   - Abre el Eclipse Mars 2.
+   - Ve al menú **File** y selecciona **Import**.
    - En la ventana emergente de "Import", expande la carpeta **General** y selecciona **Existing Projects into Workspace**.
    - Haz clic en el botón **Next**.
    - En la sección **Select root directory**, elige la opción **Select archive file**.
@@ -20,4 +20,4 @@
    - En el menú contextual que aparece, desplázate hacia abajo y selecciona la opción **Run As**.
    - En el submenú **Run As**, selecciona **Java Application**.
 
-Con estos pasos, la clase View.java se ejecutará y podrás observar la aplicación en funcionamiento. Asegúrate de haber configurado correctamente el proyecto y tener todas las dependencias necesarias para que la aplicación se ejecute sin problemas. ¡Disfruta de tu experiencia en Eclipse! 🎉😊
+Con estos pasos, la clase View.java se ejecutará y podrás observar la aplicación en funcionamiento. Asegúrate de haber configurado correctamente el proyecto y tener todas las dependencias necesarias para que la aplicación se ejecute sin problemas. ¡Disfruta de tu experiencia en Eclipse! 🎉
