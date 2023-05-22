@@ -1,5 +1,5 @@
 # Lexer Setup Instructions
-You need to run View.java to display Lexer
+## You need to run View.java to display Lexer
 To display the View.java window correctly, follow these steps in Eclipse:
 
 1. Open Eclipse and ensure that the project containing View.java is already imported.
