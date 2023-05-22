@@ -1,4 +1,4 @@
-# Lexer Setup Instructions
+#🔶 Lexer Setup Instructions
 ## You need to run View.java to display Lexer
 To display the View.java window correctly, follow these steps in Eclipse:
 
