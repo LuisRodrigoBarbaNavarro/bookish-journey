@@ -1,10 +1,10 @@
 ## Guía de Ejecución de Parser en Eclipse Mars 2 👩‍💻
 
->⚠️ ¡NOTA IMPORTANTE! ⚠️
+>IMPORTANTE ⚠️
 >
->📝 El archivo Main.java incluido en este repositorio se utiliza para compilar los cambios realizados en JFlex y CUP. Antes de ejecutar el programa, asegúrate de >cambiar las rutas establecidas en el archivo por las rutas relativas correspondientes en tu computadora. 🖥️💻
+>📝 El archivo Main.java incluido en este repositorio se utiliza para compilar los cambios realizados en JFlex y CUP. Antes de ejecutar el programa, asegúrate de >cambiar las rutas establecidas en el archivo por las rutas relativas correspondientes en tu computadora.
 >
->💡 Cada vez que realices modificaciones en los archivos de JFlex o CUP, será necesario compilar los cambios para que el programa funcione correctamente. Asegúrate de >seguir los pasos necesarios para compilar y actualizar el analizador léxico y sintáctico antes de ejecutar el código. Esto garantizará que los cambios se reflejen en >la aplicación. 🛠️✨
+>💡 Cada vez que realices modificaciones en los archivos de JFlex o CUP, será necesario compilar los cambios para que el programa funcione correctamente. Asegúrate de >seguir los pasos necesarios para compilar y actualizar el analizador léxico y sintáctico antes de ejecutar el código. Esto garantizará que los cambios se reflejen en >la aplicación.
 >
 >📂 Ten en cuenta que las rutas relativas pueden variar dependiendo de tu entorno de desarrollo y ubicación de los archivos. Asegúrate de ajustar adecuadamente las >rutas en el archivo Main.java para que coincidan con la estructura de tu proyecto en particular.
 
