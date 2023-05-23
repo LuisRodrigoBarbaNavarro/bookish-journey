@@ -1,4 +1,4 @@
-Repositorio para Analizador Léxico y Sintáctico 📚
+## Repositorio para Analizador Léxico y Sintáctico 📚
 Este repositorio está diseñado para almacenar aplicaciones relacionadas con el análisis léxico y sintáctico. Aquí encontrarás el código fuente y recursos útiles para comprender y trabajar con analizadores léxicos y sintácticos.
 
 Enlaces de YouTube 🎥
