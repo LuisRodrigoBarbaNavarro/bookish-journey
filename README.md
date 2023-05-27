@@ -33,8 +33,7 @@ Con estos pasos, la clase View.java se ejecutará y podrás observar la aplicaci
 ## Uso del Archivo Batch para eliminar archivos compilados 🗑️
 
 1. **Preparación:** Asegúrate de tener el archivo `.bat` y los archivos a eliminar en la misma carpeta.
-2. **Actualización:** Abre el archivo `.bat` y modifica los nombres de los archivos según tus necesidades.
-3. **Ejecución:** Haz doble clic en el archivo `.bat` para ejecutarlo.
-4. **Resultados:** Los archivos serán eliminados uno por uno. Verás mensajes indicando qué archivos han sido eliminados.
-5. **Confirmación manual:** Después de cada eliminación, presiona Enter para continuar. Esto te permite revisar los mensajes antes de cerrar la ventana de la terminal.
-6. **Finalización:** Una vez se hayan eliminado todos los archivos, la ventana se cerrará automáticamente. 🎉
+2. **Ejecución:** Haz doble clic en el archivo `.bat` para ejecutarlo.
+3. **Resultados:** Los archivos serán eliminados uno por uno. Verás mensajes indicando qué archivos han sido eliminados.
+4. **Confirmación manual:** Después de cada eliminación, presiona Enter para continuar. Esto te permite revisar los mensajes antes de cerrar la ventana de la terminal.
+5. **Finalización:** Una vez se hayan eliminado todos los archivos, la ventana se cerrará automáticamente. 🎉
